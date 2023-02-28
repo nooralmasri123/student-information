@@ -15,6 +15,7 @@ public class Student {
         studentName=input.nextLine();
         System.out.println("Please Enter Your Age");
         age=input.nextInt();
+        System.out.println("My age is 20");
 
 
 
